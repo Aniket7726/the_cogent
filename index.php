@@ -19,7 +19,7 @@
         </section>
 
         <section class="explore">
-            <div class="overlay"></div>
+           <img src="Images/explore_left.png" height="800" width="950" class="left" alt="">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-12 ">
@@ -46,6 +46,8 @@
         </section>
 
         <section class="services">
+            <img src="Images/service_left_bg.png" class="right" alt="">
+            <img src="Images/service_right_bg.png" class="left" alt="">
             <div class="container content">
                 <div class="row">
                     <div class="col-12 d-flex align-items-center flex-column">
