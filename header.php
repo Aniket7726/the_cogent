@@ -13,24 +13,24 @@
       </div>
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center flex-grow-1 gap-5 pe-3">
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Digital Marketing
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">SEO</a></li>
-              <li><a class="dropdown-item" href="#">SSM</a></li>
-              <li><a class="dropdown-item" href="ppc.php">Paid Advertisement</a></li>
-            </ul>
+          <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Digital Marketing
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">SEO</a></li>
+                <li><a class="dropdown-item" href="#">SSM</a></li>
+                <li><a class="dropdown-item" href="ppc.php">Paid Advertisement</a></li>
+              </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Technology Services</a>
+              <a class="nav-link" href="#">Technology Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Video Services</a>
+              <a class="nav-link" href="#">Video Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Portfolio</a>
+              <a class="nav-link" href="#">Portfolio</a>
           </li>
         </ul>
         <div class="d-flex">
